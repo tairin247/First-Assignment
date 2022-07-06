@@ -35,6 +35,13 @@ body{
    text-align: center;
    font-size: 20px;
  }
+
+ /*Donation Plan Section*/
+ .donation-plan{
+   padding: 80px 0;
+   background: white;
+ }
+
  /*Footer section starts*/
  footer {
    text-align: center;
@@ -42,3 +49,41 @@ body{
    background-color: rgb(11, 11, 34);
    color: white;
  }
+ .donation-text{
+   text-align: center;
+    color: black;
+    margin-bottom: 7%;
+ }
+ .donation-text h1{
+   font-size: 40px;
+    margin-bottom: 4%;
+ }
+ .donation-text p{
+   font-size: 20px;
+   line-height: 1.5;
+ }
+
+ .donation-types{
+    width: 33.33%;
+    background: gray;
+    margin: 0px 2%;
+
+ }
+ .box{
+   padding: 30px 0.15px;
+   border-bottom: 3px solid #e0e0e0;
+}
+
+.box img{
+   margin: 10px 0 20px 30px;
+}
+.box h4{
+   margin-left:30px ;
+   font-size: 25px;
+}
+.box p{
+   padding: 15px 20px 30px;
+   line-height: 1.5;
+   font-size: 20px;
+   color: #222;
+}
