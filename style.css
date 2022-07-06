@@ -154,6 +154,54 @@ body{
    background-color: rgb(250, 250, 210);
 }
 
+/*Update section starts*/
+.update{
+   margin: 10%;
+}
+.update-text{
+   text-align: center;
+   margin-bottom: 5%;
+}
+.update-text h1{
+   font-size: 45px;
+}
+.update-text p{
+   font-size: 20px;
+   color: rgb(119, 116, 116);
+   line-height: 1.5;
+}
+.email-box{
+   background-color: #FFEBCD;
+   height: 160px;
+   width: 70%;
+   margin: auto 15%;
+   padding-top: 5%;
+}
+.email-subscription{
+   text-align: center;
+   font-size: 0;
+   margin-top: 35px;
+
+
+}
+#email{
+   display: inline-block;
+   padding: 10px 50px;
+   text-align: left;
+   border-top-left-radius: 5%;
+   border-bottom-left-radius: 5px;
+   border-color: transparent;
+}
+.subscribe-button{
+   display: inline-block;
+   padding: 10px 40px;
+   background-color: tomato;border-color: transparent;
+   margin-right: 0;
+   color: white;
+   border-bottom-right-radius: 5px;
+   border-top-right-radius: 5px;
+}
+
  /*Footer section starts*/
  footer {
    text-align: center;
