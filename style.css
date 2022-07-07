@@ -155,6 +155,18 @@ body{
    background-color: rgb(250, 250, 210);
 }
 
+/*Bonus section starts*/
+.Bonus{
+   text-align: center;
+   background-color: #E0FFFF;
+   height: 650px;
+}
+.Bonus h3{
+   font-size: 40px;
+   padding: 40px 0;
+}
+
+
 /*Update section starts*/
 .update{
    margin: 10%;
